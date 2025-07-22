@@ -15,6 +15,7 @@ This repository contains a Jupyter notebook and supporting code that performs na
 ## Repository Structure
 - `notebook.ipynb` — The main Jupyter notebook with all code and outputs.
 - `data/` — Directory containing CADEC dataset subdirectories: `text/`, `original/`, `meddra/`, `sct/`.
+- Work with the CADEC dataset, which is available in a ZIP file called CADEC.v2.zip, from the CADEC dataset repository.
 - `README.md` — This file.
 
 ## Requirements
